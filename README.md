@@ -4,14 +4,12 @@ A content-based movie recommendation engine that suggests similar movies based o
 
 ---
 
-## Live Demo
+Live Demo
 
-Add your deployed Streamlit link here:
+Live Application:
+[https://movie-recommender-erbhvypygxhhnkvgajb5d6.streamlit.app/](https://movie-recommender-erbhvypygxhhnkvgajb5d6.streamlit.app/)
 
-```text
-[(https://movie-recommender-erbhvypygxhhnkvgajb5d6.streamlit.app/)](https://movie-recommender-erbhvypygxhhnkvgajb5d6.streamlit.app/)
-```
-
+Explore the deployed recommendation engine and discover movies similar to your favorite films in real time.
 ---
 
 ## Overview
