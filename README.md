@@ -9,7 +9,7 @@ A content-based movie recommendation engine that suggests similar movies based o
 Add your deployed Streamlit link here:
 
 ```text
-[https://your-app.streamlit.app](https://movie-recommender-erbhvypygxhhnkvgajb5d6.streamlit.app/)
+(https://movie-recommender-erbhvypygxhhnkvgajb5d6.streamlit.app/)
 ```
 
 ---
